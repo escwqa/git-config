@@ -3,3 +3,5 @@
 	email = nvimcoder@qq.com
 [init]
 	defaultBranch = main
+[credential]
+	helper = store
