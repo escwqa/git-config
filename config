@@ -1,3 +1,5 @@
 [user]
 	name = nvimcoder
 	email = nvimcoder@qq.com
+[init]
+	defaultBranch = main
